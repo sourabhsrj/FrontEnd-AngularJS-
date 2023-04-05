@@ -1,0 +1,58 @@
+* Attributes: 
+
+             <tagname >some content </tagname>
+
+             Elements can have attributes.
+             Attributes provides extra information about the element.
+             always specified in start tag of an element.
+             Attributename = "value"
+             <tagname Attributename1="value" Attributename2="value">some content </tagname>
+             depending upon the requirement element can have multiple attributes.
+
+<html lang="en">   language attribute defines langugae of an element.
+
+<a> anchor tag : tag defines hyperlink.
+
+1. href : specifies the URL of the page link
+
+2. target : specifies where to open the link.
+
+<a href="https://www.google.com/" target="_blank">Click to go to Google</a> 
+
+<img> image  : used to embed an image in an html page.
+
+3. src : specifies path of the image/source.
+
+ <img src="assets/BulbOff.jpg">
+<img src="assets/Bulbof.jpg" alt="bulb off image">
+
+4. alt :- specifies the alternate text if sourrce couldnt displayed or fetched.
+
+5. height: specifies the height
+
+6. width: specifies the width
+
+
+7. style: style attribute is used to add styles to the element.
+          such as background color, color, font etc.
+
+         <tagname style="property:value;">content</tagname>
+         <tagname style="property1:value; property2:value;">content </tagname>
+
+   a) background-color: property defines background color for the element.
+          
+                       <body style="background-color: darkgray;">
+
+  b) color: defines color for the text.
+                      <h1 style="color: blue;">Style Attribute</h1>
+
+  c) fonts: you can change the fonts.
+                      <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: large;">
+
+  d) text-align: define alignement of text.
+                 <h1 style="color: blue; text-align: center;">Style Attribute</h1>
+
+
+
+    
+

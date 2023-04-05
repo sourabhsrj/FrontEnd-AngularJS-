@@ -1,0 +1,36 @@
+* HTML quotations and citation:
+
+       1. cite : tag defines the title of a creative work, book,poem,movie.
+
+                    <cite>content</cite>
+                  <p><cite>Three Mistakes of my life</cite> was written by Chetan Bhagat</p>
+
+       2. <bdo> bidirectional override: ovveride the current direction
+     
+
+                <bdo dir="rtl">Web development</bdo>
+
+
+      3. <abbr> : <p>With the help of HTML one can define the structure of a web page.</P>
+
+                    <p>With the help of <abbr title="Hyper Text Markup Language">HTML</abbr> one can define the structure of a web page.</P>
+
+
+
+      4. <address> Defines the contact information for the author or owner of a document.
+
+                        <address>
+            Wriiten by XYZ. <br>
+            Visit us at www.xyz.com <br>
+            PO Box 13, abc street<br>
+            India.
+        </address>
+
+     5. <q> <p>some contet <q>some other content</q>sakjfd </p>
+             browser adds quotation marks around the content.
+
+
+     6. <blockquote> defines section that is quoted from another source.
+
+              <p>some content <blockquote> section from another source </blockquote> </p>
+  

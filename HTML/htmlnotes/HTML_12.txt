@@ -1,0 +1,17 @@
+1. <code> : to display a computer code.
+
+    <code>
+        let x,y;
+        let result = x+y;
+        console.log(result);
+    </code>
+
+
+2. <kbd> -> to display keyboard input
+           <p>To copy please press <kbd>ctrl + c</kbd></p>
+
+3. <samp> used to define the sample output.
+          <samp>Addition of 2 numbers is = 25</samp>
+
+4. <var>  -> to define variable.
+           <code>const <var>weight</var>;</code>

@@ -1,0 +1,59 @@
+1. Email link: it automatically opens mailing program.
+               <p>Email us at <a href="mailto:hr@kwikkoders.in?subject=Enquiry">hr@kwikkoders.in</a></p>
+
+
+2. Marquee: used for moving content.
+            deprected in HTMl5
+
+   <marquee>Moving text </marquee>
+<marquee direction="right">Moving text </marquee>
+
+
+3. List in HTML: collection of elements
+                 allows us to group together set of related items.
+                 3 types of list.
+
+    a) Unordered List: ul
+                       list with no order.
+                       list item: element in a list
+                       <ul>
+                           <li> list item1 </li>
+                           <li> list item2 </li>
+                       <ul>
+
+
+    b) Ordered List: ol
+                     
+                     list items will have specific order.
+                     <ol>
+                         <li> list item1</li>
+                         <li> list item2 </li>
+                     </ol>
+
+                     <ol style="list-style-type:upper-alpha;">
+            <li>Java</li>
+            <li>PhP</li>
+            <li>Node Js</li>
+            <li>Python</li>
+            <li>Ruby on Rail</li>
+        </ol>
+
+    c) Description List:  dl
+                         introduced in HTML5
+                         List of terms with description of each term.
+                         dl -> description list
+                         dt -> description term
+                         dd-> description defination
+ 
+
+        <dl>
+            <dt>HTML</dt>
+            <dd>Hyper text Markup Language.</dd>
+            <dt>CSS</dt>
+            <dd>Cascading style sheet</dd>
+            <dt>Javascript</dt>
+            <dd>Scripting langugae</dd>
+        </dl>
+
+
+                 

@@ -1,0 +1,28 @@
+1. Introduction to HTML: Hyper Text Markup Language.
+                         Language of web.
+                         used to create web pages.
+                         define the structure of a web page.
+                         consits of series of elements.
+                         tells the browser how to display the element.
+                         to display the content of web page.
+
+
+                        1991:- Tim Berners Lee  
+                        HTML-5  2014 
+
+                       
+
+2. Browsers: to access the web apps.
+             IE, safari, Chrome, ME, opera, firefox 
+
+
+
+3. Editor: VS code
+
+
+4. extenssion: .htm or .html 
+
+
+5. Basic Structure: 
+
+

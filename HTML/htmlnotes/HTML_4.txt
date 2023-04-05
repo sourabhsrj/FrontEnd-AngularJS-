@@ -1,0 +1,46 @@
+* Text formattings tags: To display special type of text.
+
+
+      1. <b> bold : it will display a text in bold.
+                    <p>I like <b>blue</b> color</p>
+
+
+      2. strong: Important text.
+
+                <p>This is <strong>important</strong> text</p>
+
+
+      3. <i> italic: used to display a text in italic. Technical terms, Phrases, Thoughts etc.
+                     <p>it is said that <i>There is no alternate for hard work.</i></p>
+
+
+      4. <em> emphasized tag : Screen reader will give more stress.
+                               <p><em>India</em> is world's top growing country.</p>
+
+
+      5. <small> : it will display a text in small font.
+                   <small>Please enter the username.</small>
+
+
+      6. <mark>: marked text or highlighted text.
+                 <p><mark>Capital of India is Delhi</mark></p>
+
+      7. <del> : it displayes deleted text.
+                    <p>I like <del>red</del> blue color</p>
+
+
+     8. <ins> :  it is used to display inserted text.
+                 <p>Capital city of Maharashtra is <ins>Mumbai</ins>.</p>
+
+
+
+     9. <sup> :  to display superscripted text.    Mathematical, checmical formulas etc.
+                 <p>a<sup>2</sup>b</p>
+
+     10. <sub> : subscript , to display subscripted text.
+                 <p>H<sub>2</sub>O</p>
+
+
+
+
+                                

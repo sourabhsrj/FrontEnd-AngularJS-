@@ -1,0 +1,40 @@
+*Basic Structure of HTML program:
+
+            <!DOCTYPE html> it denotes type of document is html, introduced in html5
+            <html>  root element of html document
+
+               <head>  specifically for browser, provides metadata about the html document.
+                  
+                  <title>
+                       My first html program
+                  </title>
+               </head>
+
+
+
+               <body>  // all the visible content for user goes here, it has main content of html document
+
+                    <h1>hello world </h1>
+               </body>
+
+            </html>
+
+angle bracket <>
+curley bracket { }
+round bracket/parenthesis ( )
+square bracket [ ]
+
+
+* html is a case insesative.
+       use lowercase
+
+
+* HTML element: 
+
+              html element contains 3 main things
+              1. start tag
+              2. content
+              3. end tag
+                            <p> This is para </p>
+        
+

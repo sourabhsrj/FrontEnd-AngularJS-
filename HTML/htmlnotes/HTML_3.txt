@@ -1,0 +1,51 @@
+*Indetentation: allows us to organize our code in proper way.
+
+*Basic tags in HTML: 
+
+         1. Headings in HTML: you can provide title and subtitles to the document.
+
+           <h1>Some content</h1>  most important heading
+           <h2>Some content</h2>
+           <h3>Some content</h3>
+           <h4>Some content</h4>
+           <h5>Some content</h5>
+           <h6>Some content</h6>  least important heading.
+
+        2. paragraph: <p>content</p>
+                       it always starts with new line.
+                       to display a paragraph
+
+        3. pre: preformatted text/tag
+
+   <pre>
+   This is poem line1
+   This is poem line2
+   This is poem line3
+   This is poem line4
+
+   This is poem line5
+   This is poem line6
+   This is poem line7
+   This is poem line8
+   </pre>
+
+
+
+  4. <hr> : empty tag/self closing tag.
+           horizontal rule 
+           it drwas a horizontal line
+           horizontal seperator.
+
+  5. <br> : empty tag/self closing tag
+            line break
+            it moves the content to next line.
+
+
+ 6. comments in html: you can provide extra information about the code.
+                      if you want to dont execute some part of code then also you can make use of comments.
+
+                     ctrl + /
+
+                      <!-- comment -->
+       
+ 

@@ -1,0 +1,45 @@
+* HTML table: Allows us to arrange the data into rows and columns.
+
+             <table> : to display a table
+             <tr>  table row
+             <td> table data
+             <th> table head display data in bold format, centered
+ 
+<table border="1">
+        <tr>
+            <td>Roll No</td>
+            <th style="width: 100px;">Name</th>
+            <td>Marks</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Akanksha</td>
+            <td>88</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Anuradha</td>
+            <td>56</td>
+        </tr>
+ </table>
+
+
+border: it adds border to each cell of table.
+
+
+<thead> : represents table heading section
+
+<tbody> : represents table body
+
+<tfoot>: represnts table footer.
+
+
+* rowspan and colspan: 
+colspan : it indicated no of columns to be occupied.
+<td colspan="4">Total</td>
+
+rowspan: it indicates no of rows to be occupied.
+ <th rowspan="2">Phone</th>
+
+<caption> : you can provide heading or caption to the table.
+<caption>Employee Details</caption>

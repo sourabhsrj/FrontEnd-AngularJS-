@@ -1,0 +1,38 @@
+HTML styles-CSS : 
+
+               CSS-> Cascading style sheet
+                     
+               cascading: style applied to a parent element will also get applied to its all children.
+               it is used to add styles to the html elements.
+               color,fonts,size,spacing,backgrounds,display etc.
+
+              
+               There are 3 ways to add css to the HTML.
+
+         1. Inline : Inline css is used to apply style to the single html element.
+                     style attribute
+
+                      <body style="color:red;">
+                      
+
+         2. Internal: by using <style> element in head section 
+                      used to style single html page.
+
+                        <style>
+        p{
+            color:red;
+        }
+        h2{
+            color:blue;
+            background-color: yellow;
+            text-align: center;
+        }
+    </style>
+                      
+
+         3. External: External style sheets are used to define the styles for many html pages.
+                      - with the help of <link> inside head section
+                     <link rel="stylesheet" href="CSS/style.css">
+               
+
+DRY:-> Donot repeat yourself

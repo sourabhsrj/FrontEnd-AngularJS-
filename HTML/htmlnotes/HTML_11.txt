@@ -1,0 +1,56 @@
+* favicon: is a icon displayed next to title at browser tab.
+           <link rel="icon" href="assets/Nature.jpg">
+
+* HTML semantics: elements with a meaning. It clearly describes its meaning to the browser and developer.
+                  <p>              semantic
+                  <img>
+                  <table>
+                  <header>
+                  <footer>
+                  <title>
+
+                  <div>
+                  <span>  non sematics   tells nothing about its content.
+
+
+* Image as a link:  you can use any image as a link as well.
+                     <a href="https://www.google.com/" target="_blank">
+    <img src="assets/Nature.jpg">
+  </a>           
+
+
+* iframe: inline frame
+           used to display a web page within a web page.
+          <iframe src="url">
+          <iframe src="https://www.littleunicornpreschool.in" style="border: none;"></iframe>
+
+
+*Audio:  html5 feature
+
+ <audio> : you can embed audio
+<audio controls>
+       <source src="assets/songs/Teri Ada Kaushik Guddu 128 Kbps.mp3">
+</audio>
+
+* video: to display a video on html page.
+  
+<video>
+      <source src=" ">
+</video>
+<video controls style="height: 500px; width: 500px;" autoplay muted>
+     <source src="assets/video/file_example_MP4_1280_10MG.mp4">
+</video>
+
+*pdf: <iframe src="assets/pdf-sample.pdf" height="500" width="300"></iframe>
+
+      <embed src="assets/pdf-sample.pdf" height="800" width="500">
+
+      <object data="assets\pdf-sample.pdf" height="500" width="400"></object>
+        
+
+
+* Youtube video: go to youtube --> select video --> share--> embed--> copy
+
+
+* Google map: share--> embed a map --> copy
+          

@@ -1,0 +1,37 @@
+Block and Inline Elements:
+
+1. Block Elements: every element has default display value.
+
+                   2 display value : block, inline
+
+                   - always takes up the full width available.
+                   -They always start with new line.
+
+                  div, p, h1-h6, ol,ul,dl, address etc.
+                  browser adds some margin at start and end.
+
+
+2. Inline elements: does not start with new line.
+                    only takes up as much width as necessary.
+                    a, img, sup, q, strong, br,b, span etc.
+               Inline elements can not contain block element.
+
+
+3. class and id attributes: used by CSS and JS.
+
+        a) id : id attribute specifies a unique identity for an html element.
+                id should be unique.
+
+                         <p id="para2">para2</p>
+
+
+       b) class: you can provide class name to the html element.
+                used by CSS and Javascript to select elements.
+                multiple elements can have same class.
+               class name is case sensative.
+
+               <div class="redColor">
+
+    single element can not have multiple ids
+    single element can have multiple classes.
+    single element can have id as well as class.
