@@ -1,0 +1,22 @@
+body{
+    background-image: url(assets/internet.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    border: 1mm solid yellow;
+}
+h1{
+    color: red;
+    text-align: center;
+    background-color:hsla(0, 100%, 50%, 0.3);
+    border: 1mm dotted blue;
+}
+h2
+{
+    color: aqua;
+    background-color: blueviolet;
+    text-align: center;
+    padding: 10;
+    margin: 20;
+}
